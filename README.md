@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-f22/jpa02-BrianOzburns
 
-On Heroku: https://jpa02-brianozawaburns.herokuapp.com/
+On Heroku: https://github.com/jpa02-brianozawaburns.herokuapp.com/
 
 
 # About this repo
